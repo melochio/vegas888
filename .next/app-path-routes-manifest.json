@@ -1,0 +1,8 @@
+{
+  "/page": "/",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/register/page": "/register",
+  "/(bettor)/dashboard/page": "/dashboard",
+  "/(bettor)/gameView/page": "/gameView"
+}

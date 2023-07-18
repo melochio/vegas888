@@ -1,0 +1,56 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/chunks/98-eaf592190d2bfa77.js",
+      "static/chunks/984-0726a0c8a20cae79.js",
+      "static/chunks/app/page-1d90958543559b0d.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/css/e27f071dcd00fdfa.css",
+      "static/chunks/app/layout-76013470a0fe087c.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/chunks/98-eaf592190d2bfa77.js",
+      "static/chunks/220-85e20b477a7065b6.js",
+      "static/chunks/app/login/page-668c3cd83cb45e9b.js"
+    ],
+    "/register/page": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/chunks/98-eaf592190d2bfa77.js",
+      "static/chunks/220-85e20b477a7065b6.js",
+      "static/chunks/app/register/page-189dbe39c11fc4f7.js"
+    ],
+    "/(bettor)/dashboard/page": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/chunks/98-eaf592190d2bfa77.js",
+      "static/chunks/100-e1a44b099a03e9c7.js",
+      "static/chunks/app/(bettor)/dashboard/page-ee4496bd47cc2fc3.js"
+    ],
+    "/(bettor)/gameView/page": [
+      "static/chunks/webpack-0ded64c45fcdad0d.js",
+      "static/chunks/bce60fc1-3b2a5bd7220cf0d9.js",
+      "static/chunks/961-343f5b2c5dd33fe7.js",
+      "static/chunks/main-app-5b757e07bc3405a0.js",
+      "static/chunks/98-eaf592190d2bfa77.js",
+      "static/chunks/app/(bettor)/gameView/page-2df81189433e4a6e.js"
+    ]
+  }
+}
